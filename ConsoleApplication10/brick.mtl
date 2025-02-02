@@ -1,0 +1,25 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl 02_-_Default.005
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.035294 0.011765 0.007843
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+map_Kd C:\\Users\\Alex\\Downloads\\Downloads\\NAA\\Worlds\\Whomp's Fortress\\tex1_32x32_ffa0f911b0cfbb27_5.png
+illum 1
+
+newmtl 03_-_Default.005
+Ns 18.000005
+Ka 1.000000 1.000000 1.000000
+Kd 0.376471 0.078431 0.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+map_Kd C:\\Users\\Alex\\Downloads\\Downloads\\NAA\\Worlds\\Whomp's Fortress\\tex1_32x32_ffa0f911b0cfbb27_5.png
+
+illum 1

@@ -1,0 +1,79 @@
+# Blender MTL File: 'None'
+# Material Count: 7
+
+newmtl Material__25
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Alex\\Documents\\3dsMax\\downloads\\Mud_Hut.png
+
+newmtl Material__28
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Alex\\Documents\\3dsMax\\downloads\\Tent.png
+
+newmtl Material__29
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Alex\\Documents\\3dsMax\\downloads\\Tent.png
+
+newmtl Material__30
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Alex\\Documents\\3dsMax\\downloads\\Tent.png
+
+newmtl Material__31
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Alex\\Documents\\3dsMax\\downloads\\Tent.png
+
+newmtl Material__32
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Alex\\Documents\\3dsMax\\downloads\\Tent.png
+
+newmtl Material__33
+Ns 10.000002
+Ka 1.000000 1.000000 1.000000
+Kd 0.588000 0.588000 0.588000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\Alex\\Documents\\3dsMax\\downloads\\Tent.png
